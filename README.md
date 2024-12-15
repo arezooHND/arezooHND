@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arezooHND
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning next.js
 - 💞️ I am looking for cooperation in projects as a front-end developer 
 - 📫 How to reach me: arezoohassannezhad@gmail.com
 
