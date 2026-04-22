@@ -19,17 +19,6 @@ Front-end developer with 4+ years building scalable dashboards, data-visualizati
 
 ---
 
-## Featured Projects
-
-| Project | Tech | Description |
-|---|---|---|
-| [3D Chiller Viewer](your-link) | Three.js · WebGL | Interactive 3D visualization with real-time simulation |
-| [Parla Website](your-link) | Next.js · i18n | Multilingual corporate site, SEO-optimized |
-| [Agrinito Platform](your-link) | Nuxt.js · Vue.js | Modular UI architecture for a scalable SaaS platform |
-| [Multi-Purpose Store](your-link) | Nuxt.js | Modern e-commerce UI with reusable components |
-
----
-
 ## Experience
 
 **Rayan Bourse** — Front-End Developer *(Mar 2024 – Sep 2025)*  
