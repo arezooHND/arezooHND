@@ -1,47 +1,43 @@
-# 👋 Hi, I'm Arezoo Hassannezhad
+# Arezoo Hassannezhad
 
-💻 Front-End Developer based in Saarbrücken, Germany
-🚀 Focused on React, Next.js, and building scalable web apps
-
----
-
-## 👀 About Me
-
-I’m a front-end developer with 4+ years of experience building high-performance web applications, dashboards, and data-driven interfaces. I enjoy turning complex ideas into clean, usable products and working on systems that scale.
+**Front-End Developer** · React · Next.js · TypeScript  
+📍 Saarbrücken, Germany · 🎓 M.Sc. Media Informatics, Saarland University
 
 ---
 
-## 🌱 Currently Learning
-
-* Advanced patterns in Next.js
-* Performance optimization
-* System design for front-end architecture
+Front-end developer with 4+ years building scalable dashboards, data-visualization systems, and modular UI architectures. Currently pursuing a master's in Media Informatics. I care about clean code, thoughtful component design, and fast, accessible interfaces.
 
 ---
 
-## 💼 What I Work With
+## Stack
 
-* **Languages:** JavaScript, TypeScript
-* **Frameworks:** React, Next.js, Vue, Nuxt
-* **Data & APIs:** REST APIs, React Query, SWR
-* **Visualization:** ECharts, Chart.js
-* **Tools:** Git, Docker, CI/CD, Figma
-
----
-
-## 💞️ Open to Collaborate On
-
-* Front-end projects (React / Next.js)
-* Dashboards & data visualization
-* UI architecture & component systems
+**Core:** TypeScript · React · Next.js · Vue.js · Nuxt.js  
+**Data & APIs:** REST APIs · React Query · SWR · WebSockets  
+**Visualization:** ECharts · Chart.js · Three.js  
+**Tooling:** Git · Docker · CI/CD · Storybook · Jest · Figma  
+**Auth & Monitoring:** Keycloak · OAuth · Sentry  
 
 ---
 
-## 📫 Contact Me
+## Featured Projects
 
-* Email: [arezoohassannezhad@gmail.com](mailto:arezoohassannezhad@gmail.com)
-* GitHub: https://github.com/arezooHND
+| Project | Tech | Description |
+|---|---|---|
+| [3D Chiller Viewer](your-link) | Three.js · WebGL | Interactive 3D visualization with real-time simulation |
+| [Parla Website](your-link) | Next.js · i18n | Multilingual corporate site, SEO-optimized |
+| [Agrinito Platform](your-link) | Nuxt.js · Vue.js | Modular UI architecture for a scalable SaaS platform |
+| [Multi-Purpose Store](your-link) | Nuxt.js | Modern e-commerce UI with reusable components |
 
 ---
 
-⭐ Always open to interesting ideas, collaborations, and building something meaningful.
+## Experience
+
+**Rayan Bourse** — Front-End Developer *(Mar 2024 – Sep 2025)*  
+Led migration to Next.js + TypeScript, built component library with Storybook, integrated Keycloak/OAuth auth, and managed Jenkins CI/CD pipelines.
+
+**Pishro Net Energy** — Front-End Developer *(Jul 2022 – Mar 2024)*  
+Built real-time IoT dashboards (WebSockets), 3D visualizations (Three.js), PWA, multilingual UI (i18next), and advanced charts (ECharts, Chart.js).
+
+---
+
+📬 arezoohassannezhad@gmail.com · [GitHub](https://github.com/arezooHND) · [LinkedIn](your-linkedin-url)
