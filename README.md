@@ -1,10 +1,10 @@
 # Arezoo Hassannezhad
 
-**Front-End Developer** · React · Next.js · TypeScript  
-
+**Software Engineer (Front-End)**  
+React · Next.js · TypeScript · Python
 ---
 
-Front-end developer with 4+ years building scalable dashboards, data-visualization systems, and modular UI architectures. Currently pursuing a master's in Media Informatics. I care about clean code, t[...]
+Front-end developer with 4+ years of experience building scalable dashboards, data visualization systems, and modular UI architectures. Focused on performance, scalability, and writing clean, maintainable front-end code.
 
 ---
 
@@ -18,9 +18,11 @@ Front-end developer with 4+ years building scalable dashboards, data-visualizati
 
 ---
 
+## Contact
 
-📬 Email: arezoohassannezhad@gmail.com  
-🌐 Portfolio & Profiles:  
-- GitHub: https://github.com/arezooHND  
-- LinkedIn: https://www.linkedin.com/in/arezoohassannezhad/  
-- Xing: https://www.xing.com/profile/Arezoo_Hassannezhad/
+📬 **Email:** [arezoohassannezhad@gmail.com](mailto:arezoohassannezhad@gmail.com)  
+
+🌐 **Profiles:**  
+- **GitHub:** https://github.com/arezooHND  
+- **LinkedIn:** https://www.linkedin.com/in/arezoohassannezhad/  
+- **Xing:** https://www.xing.com/profile/Arezoo_Hassannezhad/
