@@ -19,4 +19,4 @@ Front-end developer with 4+ years building scalable dashboards, data-visualizati
 ---
 
 
-📬 arezoohassannezhad@gmail.com · [GitHub](https://github.com/arezooHND) · [LinkedIn](your-linkedin-url)
+📬 arezoohassannezhad@gmail.com · [GitHub](https://github.com/arezooHND) · [LinkedIn](https://www.linkedin.com/in/arezoohassannezhad/) . [Xing](https://www.xing.com/profile/Arezoo_Hassannezhad/)
