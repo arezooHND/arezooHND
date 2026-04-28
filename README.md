@@ -4,7 +4,7 @@
 
 ---
 
-Front-end developer with 4+ years building scalable dashboards, data-visualization systems, and modular UI architectures. Currently pursuing a master's in Media Informatics. I care about clean code, thoughtful component design, and fast, accessible interfaces.
+Front-end developer with 4+ years building scalable dashboards, data-visualization systems, and modular UI architectures. Currently pursuing a master's in Media Informatics. I care about clean code, t[...]
 
 ---
 
@@ -19,4 +19,4 @@ Front-end developer with 4+ years building scalable dashboards, data-visualizati
 ---
 
 
-📬 arezoohassannezhad@gmail.com · [GitHub](https://github.com/arezooHND) · [LinkedIn](https://www.linkedin.com/in/arezoohassannezhad/) . [Xing](https://www.xing.com/profile/Arezoo_Hassannezhad/)
+📬 arezoohassannezhad@gmail.com · [GitHub](https://github.com/arezooHND){target="_blank"} · [LinkedIn](https://www.linkedin.com/in/arezoohassannezhad/){target="_blank"} · [Xing](https://www.xing.com/profile/Arezoo_Hassannezhad/){target="_blank"}
